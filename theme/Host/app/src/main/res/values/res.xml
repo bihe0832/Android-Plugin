@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">换肤宿主demo-子勰</string>
+    <string name="hostDesc">这是默认的文字描述</string>
+    <color name="hostDesc">#ff7722</color>
+    <dimen name="hostDesc">12sp</dimen>
+    <string name="test_result">这是一个插件没有的资源</string>
+</resources>
