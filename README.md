@@ -13,6 +13,19 @@
 	│   └── theme-host.apk ：换肤插件的宿主apk
 	└── theme：换肤插件相关工程
 
+### 项目介绍
+
+
+#### theme
+
+- 项目介绍
+
+	[https://github.com/bihe0832/Android-Plugin/tree/master/theme](https://github.com/bihe0832/Android-Plugin/tree/master/theme)
+	
+- 效果展示
+
+	![Demo下载二维码](https://github.com/bihe0832/Android-Plugin/blob/master/res/theme-host.gif )
+
 
 ## 相关文章
 

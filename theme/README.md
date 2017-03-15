@@ -6,15 +6,15 @@
 
 ### 安装体验
 	
-- [点击下载](./../res/theme-host.apk)
+- [点击下载](https://github.com/bihe0832/Android-Plugin/blob/master/res/theme-host.apk)
 	
 - 扫码下载APK：
 	
-
+	![Demo下载二维码](https://github.com/bihe0832/Android-Plugin/blob/master/res/theme-host.png )
 
 ### 效果展示
 
-![Demo下载二维码](./../res/theme-host.jif )
+![Demo下载二维码](https://github.com/bihe0832/Android-Plugin/blob/master/res/theme-host.gif )
 
 ## 工程介绍
 
