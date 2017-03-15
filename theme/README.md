@@ -6,7 +6,7 @@
 
 ### 安装体验
 	
-- [点击下载](https://github.com/bihe0832/Android-Plugin/blob/master/res/theme-host.apk)
+- [点击下载](http://blog.bihe0832.com/public/resource/plugin-theme-host.apk)
 	
 - 扫码下载APK：
 	
