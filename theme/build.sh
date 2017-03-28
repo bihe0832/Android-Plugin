@@ -15,7 +15,7 @@ function checkResult() {
 echo "********build：set env *******"
 
 export ANDROID_HOME=$ANDROID_SDK
-export JAVA_HOME=`/usr/libexec/java_home -v 1.7`
+export JAVA_HOME=`/usr/libexec/java_home -v 1.8`
 export ANDROID_NDK_HOME=$ANDROIDNDK_LINUX_R10C
 export PATH=$JAVA_HOME/bin:$GRADLE_HOME/bin:$PATH
 echo $ANDROID_HOME
